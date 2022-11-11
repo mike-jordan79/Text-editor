@@ -1,1 +1,1 @@
-Hello world 
+This app was developed to be used as an offline resource on your local computer as a text editor. Built using HTML, Javascript, CSS Express.js 
